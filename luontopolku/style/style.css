@@ -1,0 +1,27 @@
+.background{
+  position: absolute;
+  top:0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 800px;
+  height: 200px;
+  background-color: #00ccff;
+  overflow: hidden;
+}
+
+.tree{
+  z-index: 2;
+  width: 200px;
+  height: 200px;
+}
+
+
+.heka{
+  z-index: 1;
+  top: 57px;
+  left: 440px;
+  width: 100px;
+  height: 150px;
+}
